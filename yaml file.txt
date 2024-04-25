@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+# tea consntitution
+version: 1.0.0
+codeOwners:tea-library
+  - '0xF2E2b2CdEFFC32D24b55AcdE28d8825BA3d36FF9'
+quorum: 1
